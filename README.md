@@ -25,12 +25,12 @@
 - Machine learning applications in business  
 
 ### 📫 How to reach me  
-- Email: [Your Email Address]  
-- LinkedIn: [Your LinkedIn Profile]  
-- GitHub: [Your GitHub Profile]  
+- Email: [kalfian.jo@gmail.com]  
+- LinkedIn: [https://www.linkedin.com/in/kalfianjo]  
+- GitHub: [https://github.com/kjo90]  
 
 ### 😄 Pronouns  
-- [Your Pronouns, e.g., they/them, she/her, he/him]  
+- he/him
 
 ### ⚡ Fun fact  
 - I love spicy food, playing music, meditating, traveling, and learning new languages!  
