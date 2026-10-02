@@ -7,7 +7,6 @@
 - Managing business dashboards, including sales performance, outstanding orders, and new product development  
 
 ### 🌱 I’m currently learning  
-- Master of Science in Business Analytics (Expected Graduation: 2026)  
 - Advanced AI techniques, particularly Large Language Models (LLMs)  
 - Applications of machine learning in business contexts  
 
@@ -29,8 +28,5 @@
 - LinkedIn: [https://www.linkedin.com/in/kalfianjo]  
 - GitHub: [https://github.com/kjo90]  
 
-### 😄 Pronouns  
-- he/him
 
-### ⚡ Fun fact  
-- I love spicy food, playing music, meditating, traveling, and learning new languages!  
+
